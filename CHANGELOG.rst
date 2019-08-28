@@ -2,9 +2,7 @@
 Changelog
 =========
 
-Version 0.1
-===========
 
-- Feature A added
-- FIX: nasty bug #1729 fixed
-- add your changes here!
+20190827
+=========
+Writing a function that will calculate the simple bond valuation formula. 

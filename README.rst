@@ -2,14 +2,8 @@
 financial_trading
 =================
 
+I'll use this repo to contain the various functions that I write related to options trading. Not sure how far I will get with this, but we will see. 
 
-Add a short description here!
-
-
-Description
-===========
-
-A longer description of your project goes here...
 
 
 Note
